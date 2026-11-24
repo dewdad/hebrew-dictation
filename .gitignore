@@ -1,0 +1,7 @@
+*.exe
+*.msi
+*.gguf
+*.bin
+*.log
+*.tmp
+.DS_Store
